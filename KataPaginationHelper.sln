@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataPaginationHelper", "KataPaginationHelper\KataPaginationHelper.csproj", "{BBC8B2A3-F982-4DDA-80B8-8D22817B07D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataPaginationHelper.Tests", "KataPaginationHelper.Tests\KataPaginationHelper.Tests.csproj", "{60075C07-EA95-48C3-A419-D622B2454E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC8B2A3-F982-4DDA-80B8-8D22817B07D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC8B2A3-F982-4DDA-80B8-8D22817B07D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC8B2A3-F982-4DDA-80B8-8D22817B07D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC8B2A3-F982-4DDA-80B8-8D22817B07D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60075C07-EA95-48C3-A419-D622B2454E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60075C07-EA95-48C3-A419-D622B2454E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60075C07-EA95-48C3-A419-D622B2454E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60075C07-EA95-48C3-A419-D622B2454E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A710EC52-1C22-480D-992B-7D8B117C6B01}
+	EndGlobalSection
+EndGlobal
